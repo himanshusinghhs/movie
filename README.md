@@ -5,6 +5,7 @@
 - [x] You can search movie by title
 - [x] You can add movies to your playlist
 - [x] manage your playlist
+- [x] Information of a particular movie.
 
 ### How to use this web application:
 Download the folder as zip file,
@@ -14,5 +15,6 @@ If you click on Login option it will ask you to enter username and password and 
 After successful login you are on home page where you can search movie of your choice and if you want to add a particular movie to your favorite then just
 click on the + symbol, after clicking on the + symbol that particular movie is added in your favorite.
 You can view your favorite by clicking on the favorite button provided at the top left side where you can manage your favorite.
+If you want to know more about a movie, then just click on more option.
 
 
