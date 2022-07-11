@@ -4,7 +4,7 @@
 - [x] Authentication (Sign In/ Sign Up)
 - [x] You can search movie by title
 - [x] You can add movies to your playlist
-- [x] manage your favorite list
+- [x] manage your playlist
 
 ### How to use this web application:
 Download the folder as zip file,
