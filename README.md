@@ -1,11 +1,7 @@
 # Movie library web application
-# Movie List	:movie_camera:
-***A simple web application for movie fanatic***
-LIVE-DEMO=https://merry-kataifi-9220ac.netlify.app/
-
 
 ## Features	:briefcase:
-- [x] listing movies from movie api
+- [x] Authentication (Sign In/ Sign Up)
 - [x] searching movies by title
 - [x] add movies to your favorite list
 - [x] manage your favorite list
